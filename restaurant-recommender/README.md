@@ -1,1 +1,1 @@
-
+The objective of this project is to build an AI based assistant to help the users simplify the decision-making process. The Restaurant Recommender AI system is designed to interact with the user and find his requirements (location, nature of restaurant, cuisines of interest etc.). The AI assistant looks at the data of available restaurants, picks the best restaurants by ratings as per the user’s preferences. And recommends the top restaurants to the user so that the user can make his choice instantly.
