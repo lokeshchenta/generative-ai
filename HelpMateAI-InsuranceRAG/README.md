@@ -1,4 +1,4 @@
-HelpMateAI – Generative Search using RAG on Insurance Data
+# HelpMateAI – Generative Search using RAG on Insurance Data
 
 The objective of this project is to build an efficient Generative Search system for insurance domain. 
 A robust system capable of effectively and accurately answering questions from a policy document. 
