@@ -1,4 +1,4 @@
-# Sematic Spotter Project: Insurance Agent – RAG on Insurance Data using LlamaIndex
+# Semantic Spotter Project: Insurance Agent – RAG on Insurance Data using LlamaIndex
 
 The objective of this project is to develop an efficient Generative Search system for the insurance domain.
 We will develop a Retrieval Augmented Generation (RAG) based Agent to assist the user in their search.
